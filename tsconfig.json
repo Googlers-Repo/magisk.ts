@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "declaration": true,
+      "lib": ["ESNext"],
+      "module": "ESNext",
+      "moduleResolution": "node",
+      "noEmitOnError": true,
+      "noImplicitReturns": false,
+      "outDir": "dist",
+      "skipLibCheck": true,
+      "sourceMap": true,
+      "target": "es2018",
+      "types": ["node"]
+    },
+    "include": ["./src/**/*.ts"]
+  }
+  
